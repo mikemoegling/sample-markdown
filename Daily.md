@@ -1,17 +1,12 @@
 # Daily Standup
 
-* [X] QEZDEBUG work and converted PGMs issues
-* [ ] Finish and test 16590 - Add the Order Point to 852
-* [ ] Document BillTrust
+* [X] Make this a to do list for your daily standup
+* [ ] Use this checklist to aid in your discussion points to keep your talk time trim and to the point
+* [ ] Remember the core talk points in a standup:  What did I complete yesterday, what am I working on today, what are blockers in my path today.
 
 ## Outstanding Things
 
-Discuss source on DEV.
-DDM drive.
-GitHub.
-Source Orbit.
-Debugging in VS Code on DEV.
-Data Refreshing.
+What outstanding things are on your adjenda.  You can put meetings, other notes, a motivating quote, or other key information to make your day productive.
 
 ---
 
@@ -37,3 +32,4 @@ Data Refreshing.
 * [ ] Testing for DDS to DDL conversions
 * [X] Tom Pratt issue with cross reference items
 * [ ] Garbled Text
+
